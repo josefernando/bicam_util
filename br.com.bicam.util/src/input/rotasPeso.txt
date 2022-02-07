@@ -1,0 +1,19 @@
+Sao Paulo/Curitiba/1
+Sao Paulo/Santa Isabel/200
+Guarulhos/Santa Isabel/4
+Guarulhos/Sao Jose dos Campos/1
+Santa Isabel/Jacarei/1
+Taubate/Pindamonhagaba/1
+Taubate/Quiririm/1
+Quiririm/Tremembe/1
+Tremembe/Taubate/1
+Tremembe/Pindamonhagaba/5
+Taubate/Tremembe/2
+Pindamonhagaba/Campos dos Jordao/1
+Jacarei/Sao Jose dos Campos/1
+Sao Jose dos Campos/Campos dos Jordao/2
+Jacarei/Taubate/3
+Sao Jose dos Campos/Taubate/2
+Curitiba/Florianopolis/1
+Florianopolis/Porto Alegre/1
+Porto Alegre/Guarulhos/1

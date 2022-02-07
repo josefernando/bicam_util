@@ -1,0 +1,10 @@
+Menu_Lesson8Menu/button_cb_SOut
+button_cb_SOut/procedure_cb_SOut_Click
+procedure_cb_SOut_Click/Form_SAdresOut
+Form_SAdresOut/button_cb_exit
+button_cb_exit/procedure_cb_Exit_Click
+procedure_cb_Exit_Click/Form_SAdresIn
+Menu_Lesson8Menu/button_cb_SIn
+button_cb_SIn/procedure_cb_SIn_Click
+procedure_cb_SIn_Click/Form_SAdresIn
+Form_SAdresOut/Form_SAdresIn

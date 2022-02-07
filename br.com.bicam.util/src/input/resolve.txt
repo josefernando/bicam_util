@@ -1,0 +1,9 @@
+KeyAscii/tb_u_Apo_Dpd_KeyPress
+tb_u_Apo_Dpd_KeyPress/KeyAscii
+tb_u_niu_GotFocus/R1FAB001
+R1FAB001/R1PAB0
+R1PAB0/GLOBAL_SCOPE
+GLOBAL_SCOPE/KeyAscii
+R1FAB001/R1FAB001_VIEW
+R1FAB001_VIEW/fr3d_TpPesquisa
+fr3d_TpPesquisa/tb_u_niu

@@ -1,0 +1,21 @@
+. Definições
+ Aplicação - Procedimento automatizado que recebe dados como entrada e retorna informação
+ A diferença básica de dados e informação é que a primeira pode não apresentar um sentido semântico.
+ Exemplo: 012.345.678-9(um número, uma dado) X informado um nome(informação) retorna CPF  ( por exemplo 012.345.678-9)
+ 
+ Funcionalidade == Informação
+ 
+ Funcionlidades do BicamX:
+ 1. Símbolos de programas: qualquer nome representando variável, funcão, label, etc.
+ 
+ 2. Estruturas:
+    1. Dados: Registros, Schema de banco de dados, strings de entrada e de saída, mensagens, etc
+    
+ 3. Diagramas:
+    Relacioanamento de componentes: Aplicação tem páginas que tem campos de input e campos de mensagem, botões, lista de dados, etc.
+    
+    
+    Fluxos e Caminhos:
+    Fluxos de Páginas e Telas
+    Chamadas de programas e funcões.
+  

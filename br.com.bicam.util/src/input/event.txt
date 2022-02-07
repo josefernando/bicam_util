@@ -1,0 +1,6 @@
+Menu/Exit
+Exit/Sai
+Menu/PF8
+Menu/PF7
+PF8/Avanca
+PF7/Volta

@@ -1,0 +1,15 @@
+Sao Paulo/Guarulhos
+Sao Paulo/Santa Isabel
+Guarulhos/Santa Isabel
+Santa Isabel/Jacarei
+Taubate/Pindamonhagaba
+Taubate/Quiririm
+Quiririm/Tremembe
+Tremembe/Taubate
+Tremembe/Pindamonhagaba
+Taubate/Tremembe
+Pindamonhagaba/Campos dos Jordao
+Jacarei/Sao Jose dos Campos
+Sao Jose dos Campos/Campos dos Jordao
+Jacarei/Taubate
+Sao Jose dos Campos/Taubate

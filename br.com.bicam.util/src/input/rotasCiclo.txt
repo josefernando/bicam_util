@@ -1,0 +1,8 @@
+Sao Paulo/Jacarei
+Jacarei/Sao Jose dos Campos
+Sao Jose dos Campos/Campos dos Jordao
+Sao Jose dos Campos/Taubate
+Jacarei/Taubate
+Taubate/Jacarei
+Taubate/Pinda
+Pinda/Campos dos Jordao

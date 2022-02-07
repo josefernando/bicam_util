@@ -1,0 +1,14 @@
+MEDIAN Function [Aggregate]
+Returns the median of an expression.
+MIN Function [Aggregate]
+Returns the minimum expression value found in each group of rows.
+
+
+1) ^([a-zA-Z0-9_]*) Function [^\r\n]*\r\n                    -> matches  "MEDIAN Function [Aggregate]" e "MIN Function [Aggregate]"
+2) ^([a-zA-Z0-9_]*) (?!(\Function))[^\r\n]*\r\n              -> matches "Returns the median of an expression." e "Returns the minimum expression value found in each group of rows."
+Explicando 1)
+"Match" palavras "[a-zA-Z0-9_]*" que começam  a linha "^" e são seguidas por space " " + "Function", seguidas de qualquer caracter menos final de linha "[^\r\n]*" até final de linha "\r\n"
+
+Explicando 2) Look-Ahead Positive
+"Match" palavras "[a-zA-Z0-9_]*" que começam  a linha "^" e não são seguidas por space " " e Function" " (?!(\Function))", seguidas de qualquer caracter menos final de linha "[^\r\n]*" até final de linha "\r\n" 
+Aqui foi usado a syntax de look ahead positive
